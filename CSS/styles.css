@@ -1,0 +1,12 @@
+p{
+    color: black;
+}
+h1{
+    color:chartreuse
+}
+h2{
+    color: darkorange;
+}
+.ingrediente-faltante{
+    color: red;
+}
